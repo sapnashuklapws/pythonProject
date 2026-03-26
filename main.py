@@ -1,4 +1,4 @@
-import streamlit as at
+import streamlit as st
 #Tittle of the app
 st.title("My first streamlit app")
 #Adding text
